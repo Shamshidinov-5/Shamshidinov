@@ -29,4 +29,6 @@ If you have any cooperation or questions, you can contact us at the following ad
 - **Telegram:** @Shamshidinov28
 
 Let's work together and achieve new achievements! 🚀
-ambient_gradient
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
