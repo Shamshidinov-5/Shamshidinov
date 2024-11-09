@@ -29,7 +29,4 @@ If you have any cooperation or questions, you can contact us at the following ad
 - **Telegram:** @Shamshidinov28
 
 Let's work together and achieve new achievements! 🚀
-
-
-
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+ambient_gradient
