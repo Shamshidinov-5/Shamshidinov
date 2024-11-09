@@ -31,4 +31,11 @@ If you have any cooperation or questions, you can contact us at the following ad
 Let's work together and achieve new achievements! 🚀
 
 
-![ambient_gradient GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Shamshidinov-5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamshidinov-5&show_icons=true&theme=THEME_NAME)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamshidinov-5&layout=compact&theme=THEME_NAME)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shamshidinov-5&repo=REPO_NAME&theme=THEME_NAME)
+
+![Shamshidinov-5's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=THEME_NAME)
+
