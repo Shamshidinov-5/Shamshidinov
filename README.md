@@ -30,6 +30,39 @@ If you have any cooperation or questions, you can contact us at the following ad
 
 Let's work together and achieve new achievements! 🚀
 
+### Mening Texnologiyalarim
+
+<p align="left">
+    <!-- HTML -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    
+    <!-- CSS / SASS -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
+    
+    <!-- JavaScript -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    
+    <!-- React.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+    
+    <!-- Bootstrap -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+    
+    <!-- Python -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    
+    <!-- Django -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+    
+    <!-- Telegram Bot Development -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Bot Development" width="40" height="40"/>
+    
+    <!-- Tailwind CSS -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+
 
 ![Shamshidinov-5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamshidinov-5&show_icons=true&theme=THEME_NAME)
 
