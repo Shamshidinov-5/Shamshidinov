@@ -27,6 +27,5 @@ If you have any cooperation or questions, you can contact us at the following ad
 
 - **Email:** [shamshidinov571@gmail.com](mailto:shamshidinov571@gmail.com)
 - **Telegram:** @Shamshidinov28
-- **LinkedIn:** (If you have a LinkedIn profile, add it)
 
 Let's work together and achieve new achievements! 🚀
