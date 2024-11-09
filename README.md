@@ -31,4 +31,4 @@ If you have any cooperation or questions, you can contact us at the following ad
 Let's work together and achieve new achievements! 🚀
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![ambient_gradient GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
