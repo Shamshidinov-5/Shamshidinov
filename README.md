@@ -31,9 +31,6 @@ If you have any cooperation or questions, you can contact us at the following ad
 Let's work together and achieve new achievements! 🚀
 
 ### Mening Texnologiyalarim
-
-### Mening Texnologiyalarim
-
 ### Mening Texnologiyalarim
 
 <p align="left">
@@ -48,6 +45,7 @@ Let's work together and achieve new achievements! 🚀
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Bot Development" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
+
 
 
 
