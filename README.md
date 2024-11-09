@@ -1,8 +1,5 @@
 # Mukhammad Shamshidinov 🌐
 
-**GitHub Username:** Shamshidinov-5
-**Email:** shamshidinov571@gmail.com
-
 ## 👋 Hello!
 
 I am Muhammad Shamshidinov, an experienced Full-Stack developer for small and medium-sized businesses. Having thorough knowledge and practice in the field of web programming, I like to develop myself and learn new technologies.
