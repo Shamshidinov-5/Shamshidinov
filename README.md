@@ -35,7 +35,5 @@ Let's work together and achieve new achievements! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamshidinov-5&layout=compact&theme=THEME_NAME)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shamshidinov-5&repo=REPO_NAME&theme=THEME_NAME)
 
-![Shamshidinov-5's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=THEME_NAME)
 
