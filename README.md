@@ -30,8 +30,6 @@ If you have any cooperation or questions, you can contact us at the following ad
 
 Let's work together and achieve new achievements! 🚀
 
-### Mening Texnologiyalarim
-### Mening Texnologiyalarim
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -46,8 +44,6 @@ Let's work together and achieve new achievements! 🚀
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
 
 </p>
-
-
 
 
 
